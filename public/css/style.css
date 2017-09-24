@@ -1,0 +1,30 @@
+.create-btn{
+  margin-top:15px;
+}
+
+#messages{
+
+  margin: 10px;
+}
+#messages{
+  margin: 0;
+  padding:0;
+}
+
+#messages li{
+  padding:10px;
+  list-style: none;
+
+}
+#messages .success{
+  background: green;
+  color:white;
+}
+
+#messages .error{
+  background: green;
+  color:white;
+}
+
+
+
